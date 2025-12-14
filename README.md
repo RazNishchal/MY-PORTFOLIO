@@ -6,7 +6,7 @@
 
 - ⚛️ React.js
 - 🎨 Tailwind CSS
-- 💾 Vercel(for deployment)
+- 💾 Netlify(for deployment)
 
 ## 📁 Features
 
